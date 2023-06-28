@@ -1,0 +1,9 @@
+* cl-heresy
+
+Haskellesque lazy-list and functional tools with a Common Lisp slant.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atgreen/heresy.git |
+| commit  | f1f632f                                   |
+| systems | heresy                                    |
+|---------+-------------------------------------------|
