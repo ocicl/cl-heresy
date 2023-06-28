@@ -4,6 +4,6 @@ Haskellesque lazy-list and functional tools with a Common Lisp slant.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/atgreen/heresy.git |
-| commit  | f1f632f                                   |
+| commit  | 408a5a0                                   |
 | systems | heresy                                    |
 |---------+-------------------------------------------|
